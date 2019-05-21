@@ -1,0 +1,5 @@
+PyAutoGUI>=0.9.36
+pytesseract>=0.2.6
+colorama>=0.3.9
+opencv-python>=4.0.0.21
+terminaltables>=3.1.0
